@@ -1,0 +1,10 @@
+{
+  "records": [
+    {
+      "path": "repo/README.md"
+    },
+    {
+      "path": "repo/file.json"
+    }
+  ]
+}
